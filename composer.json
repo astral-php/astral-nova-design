@@ -1,0 +1,27 @@
+{
+  "name": "astral-php/astral-nova-design",
+  "description": "Meta-package Nova Design : CSS + icons + Template Nova alignés pour les applications Astral.",
+  "type": "metapackage",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/astral-php/astral-nova-design",
+  "support": {
+    "source": "https://github.com/astral-php/astral-nova-design",
+    "issues": "https://github.com/astral-php/astral-nova-design/issues"
+  },
+  "keywords": [
+    "astral",
+    "nova",
+    "design-system",
+    "metapackage",
+    "ui"
+  ],
+  "require": {
+    "php": "^8.3",
+    "astral-php/astral-nova-css": "^1.0",
+    "astral-php/astral-nova-icons": "^1.0",
+    "astral-php/astral-template-nova": "^1.0"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
