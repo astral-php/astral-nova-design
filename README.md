@@ -13,7 +13,7 @@ Il ne contient pas de code. Il `require` les trois artefacts alignés en `^1.0` 
 ## Installation (apps)
 
 ```bash
-composer require astral-php/astral-nova-design:^1.0
+composer require astral-php/astral-nova-design:^1.1
 ```
 
 Puis publier les builds vers le webroot, typiquement :
